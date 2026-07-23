@@ -20,6 +20,7 @@ Portfolio/
 │── index.html
 │── Profile1.jpeg
 │── README.md
+│── Resume.pdf
 │── script.js
 │── style.css
 
